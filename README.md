@@ -1,8 +1,8 @@
-Tutorial - ImageJ - Plugin (Zernike - KNearest)
+# Tutorial: ImageJ - Plugin (Zernike - KNearest) #
 
-Passos para executar o Plugin
+*Passos para executar o Plugin*
 
-Input: Apenas imagens 8-bit (ou seja, com apenas 1 canal de cor, tons de cinza, de 0 á 255 "tonalidades")
+Input: Apenas imagens 8-bit (ou seja, com apenas 1 canal de cor, tons de cinza, de 0 a 255 "tonalidades")
 
 1º Passo:
  Baixe o software ImageJ (https://imagej.nih.gov/ij/download.html)
@@ -11,7 +11,7 @@ Input: Apenas imagens 8-bit (ou seja, com apenas 1 canal de cor, tons de cinza, 
  Coloque todos os arquivos *.java e *.class na pasta Filters (ImageJ\plugins\Filters) do diretório de instalação do ImageJ
 
 3º Passo: 
- Abra o ImageJ e clique em "File" > "Open..." e abra uma imagem de referência
+ Abra o ImageJ e clique em "File" > "Open..." e abra uma imagem de referência (de preferência extraia as imagens do brodatz-gif.zip e selecione uma imagem)
 
 4º Passo:
  Clique em "Plugins" > "Compile and Run..." e selecione o arquivo "K_Nearest.java"
