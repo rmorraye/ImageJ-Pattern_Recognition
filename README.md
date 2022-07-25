@@ -1,4 +1,4 @@
-########## Tutorial - ImageJ - Plugin (Zernike - KNearest) ############
+#Tutorial - ImageJ - Plugin (Zernike - KNearest)
 
 	* Passos para executar o Plugin *
 
