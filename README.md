@@ -1,6 +1,6 @@
-#Tutorial - ImageJ - Plugin (Zernike - KNearest)
+Tutorial - ImageJ - Plugin (Zernike - KNearest)
 
-	* Passos para executar o Plugin *
+Passos para executar o Plugin
 
 Input: Apenas imagens 8-bit (ou seja, com apenas 1 canal de cor, tons de cinza, de 0 á 255 "tonalidades")
 
